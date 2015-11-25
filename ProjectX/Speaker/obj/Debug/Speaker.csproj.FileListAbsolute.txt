@@ -1,0 +1,70 @@
+C:\Users\John\Documents\Visual Studio 2012\Projects\Speaker\Speaker\bin\Debug\Zira.exe.config
+C:\Users\John\Documents\Visual Studio 2012\Projects\Speaker\Speaker\bin\Debug\Zira.exe
+C:\Users\John\Documents\Visual Studio 2012\Projects\Speaker\Speaker\bin\Debug\Zira.pdb
+C:\Users\John\Documents\Visual Studio 2012\Projects\Speaker\Speaker\bin\Debug\Interop.WMPLib.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\Speaker\Speaker\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\Speaker\Speaker\obj\Debug\Interop.WMPLib.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\Speaker\Speaker\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\Speaker\Speaker\obj\Debug\Speaker.csproj.ResolveComReference.cache
+C:\Users\John\Documents\Visual Studio 2012\Projects\Speaker\Speaker\obj\Debug\Speaker.Form1.resources
+C:\Users\John\Documents\Visual Studio 2012\Projects\Speaker\Speaker\obj\Debug\Speaker.Form2.resources
+C:\Users\John\Documents\Visual Studio 2012\Projects\Speaker\Speaker\obj\Debug\Speaker.Properties.Resources.resources
+C:\Users\John\Documents\Visual Studio 2012\Projects\Speaker\Speaker\obj\Debug\Speaker.csproj.GenerateResource.Cache
+C:\Users\John\Documents\Visual Studio 2012\Projects\Speaker\Speaker\obj\Debug\Zira.exe
+C:\Users\John\Documents\Visual Studio 2012\Projects\Speaker\Speaker\obj\Debug\Zira.pdb
+C:\Users\John\Documents\Visual Studio 2012\Projects\Speaker\Speaker\obj\Debug\Speaker.stop_talking.resources
+C:\Users\John\Documents\Visual Studio 2012\Projects\Speaker\Speaker\obj\Debug\Speaker.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2013\Projects\Speaker\Speaker\bin\Debug\Zira.exe.config
+C:\Users\John\Documents\Visual Studio 2013\Projects\Speaker\Speaker\obj\Debug\Interop.WMPLib.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\Speaker\Speaker\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\Speaker\Speaker\obj\Debug\Speaker.csproj.ResolveComReference.cache
+C:\Users\John\Documents\Visual Studio 2013\Projects\Speaker\Speaker\obj\Debug\Zira.exe
+C:\Users\John\Documents\Visual Studio 2013\Projects\Speaker\Speaker\obj\Debug\Zira.pdb
+C:\Users\John\Documents\Visual Studio 2013\Projects\Speaker\Speaker\obj\Debug\Speaker.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2013\Projects\Speaker\Speaker\obj\Debug\Speaker.Form1.resources
+C:\Users\John\Documents\Visual Studio 2013\Projects\Speaker\Speaker\obj\Debug\Speaker.Form2.resources
+C:\Users\John\Documents\Visual Studio 2013\Projects\Speaker\Speaker\obj\Debug\Speaker.Properties.Resources.resources
+C:\Users\John\Documents\Visual Studio 2013\Projects\Speaker\Speaker\obj\Debug\Speaker.stop_talking.resources
+C:\Users\John\Documents\Visual Studio 2013\Projects\Speaker\Speaker\obj\Debug\Speaker.csproj.GenerateResource.Cache
+C:\Users\John\Documents\Visual Studio 2013\Projects\Speaker\Speaker\bin\Debug\Zira.exe
+C:\Users\John\Documents\Visual Studio 2013\Projects\Speaker\Speaker\bin\Debug\Zira.pdb
+C:\Users\John\Documents\Visual Studio 2013\Projects\Speaker\Speaker\bin\Debug\Interop.WMPLib.dll
+C:\Users\John\Documents\Visual Studio 2013\Projects\Speaker\Speaker\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\John\Desktop\Zira_Source_Code\Speaker\bin\Debug\Zira.exe.config
+C:\Users\John\Desktop\Zira_Source_Code\Speaker\obj\Debug\Interop.WMPLib.dll
+C:\Users\John\Desktop\Zira_Source_Code\Speaker\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\John\Desktop\Zira_Source_Code\Speaker\obj\Debug\Speaker.csproj.ResolveComReference.cache
+C:\Users\John\Desktop\Zira_Source_Code\Speaker\obj\Debug\Zira.exe
+C:\Users\John\Desktop\Zira_Source_Code\Speaker\obj\Debug\Zira.pdb
+C:\Users\DBaraiya\Downloads\Zira_Source_Code\Speaker\bin\Debug\Zira.exe.config
+C:\Users\DBaraiya\Downloads\Zira_Source_Code\Speaker\obj\Debug\Interop.WMPLib.dll
+C:\Users\DBaraiya\Downloads\Zira_Source_Code\Speaker\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\DBaraiya\Downloads\Zira_Source_Code\Speaker\obj\Debug\Speaker.csproj.ResolveComReference.cache
+C:\Users\DBaraiya\Downloads\Zira_Source_Code\Speaker\obj\Debug\Zira.exe
+C:\Users\DBaraiya\Downloads\Zira_Source_Code\Speaker\obj\Debug\Zira.pdb
+C:\Users\DBaraiya\Downloads\Zira_Source_Code\Speaker\bin\Debug\Zira.exe
+C:\Users\DBaraiya\Downloads\Zira_Source_Code\Speaker\bin\Debug\Zira.pdb
+C:\Users\DBaraiya\Downloads\Zira_Source_Code\Speaker\bin\Debug\Interop.WMPLib.dll
+C:\Users\DBaraiya\Downloads\Zira_Source_Code\Speaker\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\DBaraiya\Downloads\Zira_Source_Code\Speaker\obj\Debug\Speaker.csprojResolveAssemblyReference.cache
+C:\Users\DBaraiya\Downloads\Zira_Source_Code\Speaker\obj\Debug\Speaker.Form1.resources
+C:\Users\DBaraiya\Downloads\Zira_Source_Code\Speaker\obj\Debug\Speaker.Form2.resources
+C:\Users\DBaraiya\Downloads\Zira_Source_Code\Speaker\obj\Debug\Speaker.Properties.Resources.resources
+C:\Users\DBaraiya\Downloads\Zira_Source_Code\Speaker\obj\Debug\Speaker.stop_talking.resources
+C:\Users\DBaraiya\Downloads\Zira_Source_Code\Speaker\obj\Debug\Speaker.csproj.GenerateResource.Cache
+C:\Users\DBaraiya\Downloads\ProjectX_Source_Code\Speaker\bin\Debug\Zira.exe.config
+C:\Users\DBaraiya\Downloads\ProjectX_Source_Code\Speaker\obj\Debug\Interop.WMPLib.dll
+C:\Users\DBaraiya\Downloads\ProjectX_Source_Code\Speaker\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\DBaraiya\Downloads\ProjectX_Source_Code\Speaker\obj\Debug\Speaker.csproj.ResolveComReference.cache
+C:\Users\DBaraiya\Downloads\ProjectX_Source_Code\Speaker\obj\Debug\Zira.exe
+C:\Users\DBaraiya\Downloads\ProjectX_Source_Code\Speaker\obj\Debug\Zira.pdb
+C:\Users\DBaraiya\Downloads\ProjectX_Source_Code\Speaker\bin\Debug\Zira.exe
+C:\Users\DBaraiya\Downloads\ProjectX_Source_Code\Speaker\bin\Debug\Zira.pdb
+C:\Users\DBaraiya\Downloads\ProjectX_Source_Code\Speaker\bin\Debug\Interop.WMPLib.dll
+C:\Users\DBaraiya\Downloads\ProjectX_Source_Code\Speaker\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\DBaraiya\Downloads\ProjectX_Source_Code\Speaker\obj\Debug\Speaker.csprojResolveAssemblyReference.cache
+C:\Users\DBaraiya\Downloads\ProjectX_Source_Code\Speaker\obj\Debug\Speaker.Form1.resources
+C:\Users\DBaraiya\Downloads\ProjectX_Source_Code\Speaker\obj\Debug\Speaker.Form2.resources
+C:\Users\DBaraiya\Downloads\ProjectX_Source_Code\Speaker\obj\Debug\Speaker.Properties.Resources.resources
+C:\Users\DBaraiya\Downloads\ProjectX_Source_Code\Speaker\obj\Debug\Speaker.stop_talking.resources
+C:\Users\DBaraiya\Downloads\ProjectX_Source_Code\Speaker\obj\Debug\Speaker.csproj.GenerateResource.Cache
